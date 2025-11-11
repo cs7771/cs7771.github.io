@@ -19,7 +19,7 @@ params:
   profile:
     name: "Christian Silva."
     tagline: Title
-    location: "Anaheim, ST"
+    location: "A, ST"
     photo: profile.jpg
   social:
     title: Links
